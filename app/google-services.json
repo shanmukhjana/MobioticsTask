@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "985247910039",
+    "firebase_url": "https://mobioticstask-4cc31.firebaseio.com",
+    "project_id": "mobioticstask-4cc31",
+    "storage_bucket": "mobioticstask-4cc31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985247910039:android:ec6c586407b9264e",
+        "android_client_info": {
+          "package_name": "com.example.shanm.mobioticstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985247910039-r7fj72dv59hbptskr21spih2kmdfo5j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shanm.mobioticstask",
+            "certificate_hash": "6b497314acb2e35342ac10b2fcf2b99117778cf1"
+          }
+        },
+        {
+          "client_id": "985247910039-20ic12snskg7or6gvqrskb2d14ds0bga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA73jdtIGH0jX2dnu3_Gl3wCusC4oNfQzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985247910039-20ic12snskg7or6gvqrskb2d14ds0bga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
